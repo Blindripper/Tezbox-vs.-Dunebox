@@ -1,5 +1,5 @@
 # Tezbox-vs.-Dunebox
-Tezbox Vs. Dunebox Ledger access comparison
+Tezbox vs. Dunebox Ledger access comparison
 
 Comparison of Tezbox Wallet vs. Dunebox Wallet
 
